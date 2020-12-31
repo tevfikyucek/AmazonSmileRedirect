@@ -4,7 +4,7 @@ This is a [Firefox](https://www.mozilla.org/en-US/firefox/) extension that forwa
 
 # Do You Track My Data?
 
-Absolutely not. The extension simply forwards the www.amazon site to smile.amazon. Source code is available for inspection. No user data is collected or stored.
+Absolutely not. The extension simply forwards the www.amazon.com sites to smile.amazon.com. Source code is available for inspection. No user data is collected or stored.
 
 # Planned Improvements
 
